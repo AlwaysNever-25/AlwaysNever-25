@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning HTML, CSS, and JavaScript
 - 💞️ I’m looking to collaborate on nothing at the moment
 - 📫 How to reach me:
-  - Discord: AlwaysNever#8485
+  - Discord: ![](https://dcbadge.vercel.app/api/shield/282146465923596289)
   - Reddit: AlwaysNever-25
 
 <!---
